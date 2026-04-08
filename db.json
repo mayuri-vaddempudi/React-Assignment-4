@@ -1,0 +1,132 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Gold Ring",
+      "price": 2000,
+      "category": "rings",
+      "image": "/images/ring1.jpg",
+      "description": "Elegant 14K gold ring with a smooth finish, perfect for everyday wear or special occasions."
+    },
+    {
+      "id": 2,
+      "name": "Platinum Ring",
+      "price": 3000,
+      "category": "rings",
+      "image": "/images/ring2.jpg",
+      "description": "Premium platinum ring featuring a sleek and modern design that complements any outfit."
+    },
+    {
+      "id": 3,
+      "name": "Diamond Ring",
+      "price": 6000,
+      "category": "rings",
+      "image": "/images/ring3.jpg",
+      "description": "Luxury diamond ring with sparkling stones, ideal for engagements or special gifts."
+    },
+    {
+      "id": 4,
+      "name": "Silver Ring",
+      "price": 1200,
+      "category": "rings",
+      "image": "/images/ring4.jpg",
+      "description": "Classic sterling silver ring with a polished finish, stylish yet understated."
+    },
+    {
+      "id": 5,
+      "name": "Diamond Necklace",
+      "price": 5000,
+      "category": "necklaces",
+      "image": "/images/necklace1.jpg",
+      "description": "Elegant diamond necklace with a delicate chain, perfect for evening wear."
+    },
+    {
+      "id": 6,
+      "name": "Gold Necklace",
+      "price": 4500,
+      "category": "necklaces",
+      "image": "/images/necklace2.jpg",
+      "description": "Timeless 18K gold necklace that pairs beautifully with formal or casual outfits."
+    },
+    {
+      "id": 7,
+      "name": "Pearl Necklace",
+      "price": 3500,
+      "category": "necklaces",
+      "image": "/images/necklace3.jpg",
+      "description": "Classic pearl necklace, adding elegance and sophistication to any look."
+    },
+    {
+      "id": 8,
+      "name": "Luxury Necklace",
+      "price": 8000,
+      "category": "necklaces",
+      "image": "/images/necklace4.jpg",
+      "description": "Premium luxury necklace with intricate detailing and sparkling stones."
+    },
+    {
+      "id": 9,
+      "name": "Silver Bracelet",
+      "price": 1500,
+      "category": "bracelets",
+      "image": "/images/bracelet1.jpg",
+      "description": "Sleek sterling silver bracelet suitable for daily wear or gifting."
+    },
+    {
+      "id": 10,
+      "name": "Gold Bracelet",
+      "price": 2500,
+      "category": "bracelets",
+      "image": "/images/bracelet2.jpg",
+      "description": "Beautiful 14K gold bracelet that adds a touch of luxury to your wrist."
+    },
+    {
+      "id": 11,
+      "name": "Charm Bracelet",
+      "price": 1800,
+      "category": "bracelets",
+      "image": "/images/bracelet3.jpg",
+      "description": "Playful charm bracelet with unique charms that express your personality."
+    },
+    {
+      "id": 12,
+      "name": "Diamond Bracelet",
+      "price": 5500,
+      "category": "bracelets",
+      "image": "/images/bracelet4.jpg",
+      "description": "Exquisite diamond bracelet that sparkles beautifully for special occasions."
+    },
+    {
+      "id": 13,
+      "name": "Gold Earrings",
+      "price": 1800,
+      "category": "earrings",
+      "image": "/images/earrings1.jpg",
+      "description": "Classic 14K gold earrings with a refined design for everyday elegance."
+    },
+    {
+      "id": 14,
+      "name": "Diamond Earrings",
+      "price": 4000,
+      "category": "earrings",
+      "image": "/images/earrings2.jpg",
+      "description": "Sophisticated diamond earrings that add sparkle to any outfit."
+    },
+    {
+      "id": 15,
+      "name": "Pearl Earrings",
+      "price": 2200,
+      "category": "earrings",
+      "image": "/images/earrings3.jpg",
+      "description": "Elegant pearl earrings that are perfect for weddings, parties, or daily wear."
+    },
+    {
+      "id": 16,
+      "name": "Stud Earrings",
+      "price": 1200,
+      "category": "earrings",
+      "image": "/images/earrings4.jpg",
+      "description": "Minimalist stud earrings for a clean, modern look."
+    }
+  ]
+}
