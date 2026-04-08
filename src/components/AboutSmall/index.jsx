@@ -1,4 +1,4 @@
-import styles from "./AboutSmall.module.css";
+import styles from "./aboutSmall.module.css";
 
 const AboutSmall = () => {
   return (
